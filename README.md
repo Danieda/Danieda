@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **<a href="https://reactjs.org/">React.js</a> and <a href="https://redux.js.org/">Redux.js</a>**
 
-- 👨‍💻 All of my projects are available at [https://scarletkeep.com/](https://scarletkeep.com/)
+- 👨‍💻 All of my projects at our website [https://scarletkeep.com/](https://scarletkeep.com/)
 
 - ⚡ Fun fact **I built a game on itch.io, You can check it out here: https://scarletkeep.com/**
 
