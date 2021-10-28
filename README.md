@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **<a href="https://reactjs.org/">React.js</a> and <a href="https://redux.js.org/">Redux.js</a>**
 
-- 👨‍💻 All of my projects at our website [https://itch.io/jam/brackeys-6/rate/1175155](https://itch.io/jam/brackeys-6/rate/1175155)
+- 👨‍💻 All of my projects at our website [https://scarletkeep.com/](https://scarletkeep.com)
 
-- ⚡ Fun fact **I built a game on itch.io, You can check it out here: https://scarletkeep.com/**
+- ⚡ Fun fact **I built a game on itch.io, You can check it out here: https://itch.io/jam/brackeys-6/rate/1175155 **
 
 
 <h3 align="left">Languages and Tools:</h3>
