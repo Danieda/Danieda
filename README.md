@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a Unity game project**
 
-- 🌱 I’m currently learning **<a href="https://reactjs.org/">React.js</a> and Redux.js**
+- 🌱 I’m currently learning **<a href="https://reactjs.org/">React.js</a> and <a href="https://redux.js.org/">Redux.js</a>**
 
 - 👨‍💻 All of my projects are available at [https://scarletkeep.com/](https://scarletkeep.com/)
 
