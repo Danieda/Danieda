@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **I built a game on itch.io, You can check it out here: https://scarletkeep.com/**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
