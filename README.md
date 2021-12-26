@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel Ojeda</h1>
-<h3 align="center">Self Taught Developer</h3>
+<h3 align="center">Self-Taught Developer</h3>
 
 - 🔭 I’m currently working on **a Unity game project**
 
