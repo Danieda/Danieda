@@ -5,7 +5,7 @@
 
 - 👯 I'm currenly working with **React.js and Redux.js**
 
-- 👨‍💻 All of my projects are available at [All of my projects are available at [https://scarletkeep.com/ and github repositories]](All of my projects are available at [https://scarletkeep.com/ and github repositories])
+- 👨‍💻 (All of my projects are available at [https://scarletkeep.com/ and github repositories])
 
 - ⚡ Fun fact **Fun fact I built a game on itch.io, You can check it out here: https://scarletkeep.com/**
 
