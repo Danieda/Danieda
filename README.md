@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Daniel Ojeda</h1>
 <h3 align="center">A Self-Taught Game Developer/Front-end Developer</h3>
 
-- 🔭 I’m currently working on **I’m currently working on a Unity game project**
+- 🔭 **I’m currently working on a Unity game project**
 
 - 👯 I'm currenly working with **React.js and Redux.js**
 
 - 👨‍💻 All of my projects are available at [https://scarletkeep.com/ and github repositories])
 
-- ⚡ Fun fact **Fun fact I built a game on itch.io, You can check it out here: https://scarletkeep.com/**
+- ⚡ **Fun fact I built a game on itch.io, You can check it out here: https://scarletkeep.com/**
 
 <p align="left">
 </p>
